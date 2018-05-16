@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pushp_pro_new.wsgi:application
